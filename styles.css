@@ -5,7 +5,8 @@ body {
 }
 
 .seebanner {
-    width: 50%;
+    width: 30%;
+    align-items: center;
 }
 
 nav {
