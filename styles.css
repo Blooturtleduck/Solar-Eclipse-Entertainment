@@ -12,11 +12,11 @@ body {
 }
 
 nav {
-    background-color: black;
+    background-color: #000000;
     width: 100%;
     line-height: 3;
     text-indent: 10px; 
-    position: fixed;
+    position: relative;
     left: 0px;
     top: 400px;
     width: 100%;
