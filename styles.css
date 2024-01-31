@@ -9,6 +9,7 @@ body {
     position: relative;
     left: 0px;
     top: 0px;
+    margin: 0px;
 }
 
 nav {
@@ -19,10 +20,11 @@ nav {
     display: inline-flex;
     position: relative;
     left: 0px;
-    top: 400px;
+    top: 200px;
     width: 100%;
     height: fit-content;
     z-index: 1000;
+    margin: 0px;
 }
 
 .navlink {
