@@ -38,17 +38,3 @@ nav {
     margin-left: 5px;
     margin-right: 5px;
 }
-
-#backToTopBtn {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    border: none;
-    cursor: pointer;
-    width: 20px;
-}
-
-#backToTopBtn:hover {
-    width: 30px;
-}
