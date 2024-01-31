@@ -20,7 +20,7 @@ nav {
     display: inline-flex;
     position: relative;
     left: 0px;
-    top: 200px;
+    top: 0px;
     width: 100%;
     height: fit-content;
     z-index: 1000;
